@@ -1,12 +1,3 @@
- @font-face {
-   font-family: myfont;
-   src:  url('./consolas.ttf');
-   font-weight: 600;
-   font-style: normal;
- }
-
 .hello {
     color: red;
-    font-family: myfont;
-    background: url('./logo.svg');
 }
